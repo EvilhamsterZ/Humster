@@ -66,4 +66,4 @@ int main()
 }
 ```
 ### Скрин отладки
-![Alt-текст](![скрин](https://user-images.githubusercontent.com/90544365/132997800-895ed2ac-991e-42dc-83d3-fb87cd56954b.jpg))
+(![скрин](https://user-images.githubusercontent.com/90544365/132997800-895ed2ac-991e-42dc-83d3-fb87cd56954b.jpg)
