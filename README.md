@@ -66,4 +66,4 @@ int main()
 }
 ```
 ### Скрин отладки
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+![Alt-текст](https://skr.sh/sA0StahPrJZ?a)
