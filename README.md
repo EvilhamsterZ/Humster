@@ -65,3 +65,5 @@ int main()
     return 0;
 }
 ```
+### Скрин отладки
+https://skr.sh/i/120921/StahPrJZ.jpg?download=1&name=Скриншот%2012-09-2021%2020:48:55.jpg
