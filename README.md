@@ -66,4 +66,4 @@ int main()
 }
 ```
 ### Скрин отладки
-https://skr.sh/i/120921/StahPrJZ.jpg?download=1&name=Скриншот%2012-09-2021%2020:48:55.jpg
+![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
