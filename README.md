@@ -3,7 +3,7 @@
 С++ Visual Studio 2019
 ## Code
 ```
-include <iostream>
+#include <iostream>
 using namespace std;
 
 float sum(float a, float b)/* функция для суммы двух переменных*/
@@ -17,6 +17,14 @@ float raz(float a, float b)/* функция для разности двух п
 float sred(float a, float b)/* функция для среднего арифмитического для двух переменных*/
 {
     return (a + b)/2;
+}
+float proizv(float a, float b)/* функция для произведения для двух переменных*/
+{
+    return a*b;
+}
+float chastnoe(float a, float b)/* функция для среднего частного для двух переменных*/
+{
+    return a/b;
 }
 
 int main()
@@ -39,6 +47,14 @@ int main()
     /*среднее арифметическое*/
     cout << c << endl;
     /*вывод среднего */
+    c = proizv(a, b);
+    /*произведение*/
+    cout << c << endl;
+    /*вывод произведения */
+    c = chastnoe(a, b);
+    /*частное*/
+    cout << c << endl;
+    /*вывод частного */
     return 0;
 }
 ```
