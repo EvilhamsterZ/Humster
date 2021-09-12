@@ -66,4 +66,4 @@ int main()
 }
 ```
 ### Скрин отладки
-![Alt-текст](https://skr.sh/sA0StahPrJZ?a)
+![Alt-текст](file:///C:/Users/Sergo/Desktop/StahPrJZ.jpg)
